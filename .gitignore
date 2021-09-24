@@ -1,2 +1,27 @@
+# general
 *.class
 *.log
+
+# idea
+/.idea
+
+# Mac
+.DS_Store
+
+# bloop and metals
+.bloop
+.bsp
+
+# sbt
+project/project/
+project/target/
+target/
+
+# eclipse
+build/
+.classpath
+.project
+.settings
+.worksheet
+bin/
+.cache
